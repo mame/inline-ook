@@ -1,5 +1,2 @@
-README.rdoc
+README.txt
 lib/**/*.rb
-bin/*
-features/**/*.feature
-LICENSE

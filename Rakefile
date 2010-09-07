@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "inline-ook"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{inline-ook allows you to embed Ook! program in Ruby script}
+    gem.description = %Q{inline-ook allows you to embed Ook! program in Ruby script}
     gem.email = "mame@tsg.ne.jp"
     gem.homepage = "http://github.com/mame/inline-ook"
     gem.authors = ["Yusuke Endoh"]
